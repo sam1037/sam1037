@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### I am currently working on/ learning
+1. [Time2Read Extension](): a chrome extension that estimates the time to read articles/ documents
+2. My [personal website](https://sam1037.github.io/personal-website/index.html)
+3. cs50 web
+
 <!--
 **sam1037/sam1037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
