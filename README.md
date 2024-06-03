@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I am currently working on/ learning
-1. [Time2Read Extension](): a chrome extension that estimates the time to read articles/ documents
+1. [Time2Read Extension](https://github.com/sam1037/Reading-Time-Plus): a chrome extension that estimates the time to read articles/ documents
 2. My [personal website](https://sam1037.github.io/personal-website/index.html)
 3. cs50 web
 
