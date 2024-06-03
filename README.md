@@ -5,7 +5,7 @@
 2. My [personal website](https://sam1037.github.io/personal-website/index.html)
 3. cs50 web
 
-## Achievements that I am proud of
+### Achievements that I am proud of
 1. todo
 
 <!--
