@@ -1,7 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-### I am currently working on/ learning
-1. Flask-based simple full-stack blog app
+## I am currently working on/ learning
+1. [Flask-based simple full-stack blog app](https://github.com/sam1037/Simple-Blog-App)
+
+## Some projects I worked on
+1. [A Chrome Extension](https://chromewebstore.google.com/detail/time2read-estimator/iknehfokhecdigojenlhkcmbicogohgi?hl=en)
+2. [A Data Analysis and Image Generation Project](https://dsprojects.lib.cuhk.edu.hk/en/projects/chinese-modern-poetry/introduction/)
 
 <!--
 **sam1037/sam1037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
