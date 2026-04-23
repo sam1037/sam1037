@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I am currently working on/ learning
-- League of Legends highlight generator: generate lol hihglight automatically given the raw gameplay footage  
+- League of Legends highlight generator: generate lol highlight automatically given the raw gameplay footage  
 
 <!--
 **sam1037/sam1037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
